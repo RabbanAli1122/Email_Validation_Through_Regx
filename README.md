@@ -1,1 +1,1 @@
-# email_validation_through_Regx
+# Email_Validation_Through_Regx
