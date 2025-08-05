@@ -10,15 +10,6 @@ A simple web app that validates user input for email addresses using Regular Exp
 - Lightweight and responsive UI
 
 
-## 🖼️ Screenshots
-**Homepage view with input field**
-![Screenshot 1](https://github.com/user-attachments/assets/your-screenshot-link-1)
-
-**Validation Result Example**
-![Screenshot 2](https://github.com/user-attachments/assets/your-screenshot-link-2)
-
-> Replace the above links with actual image URLs from your GitHub repo if you want screenshots displayed.
-
 ## 🛠️ Technologies Used
 - **HTML5**
 - **CSS3**
