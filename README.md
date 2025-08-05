@@ -1,6 +1,5 @@
 # Email Validation Through RegEx
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo–rabbanali1122.github.io-blue)](https://rabbanali1122.github.io/Email_Validation_Through_Regx/)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 A simple web app that validates user input for email addresses using Regular Expressions (RegEx). Built using vanilla JavaScript, HTML5, and CSS3.
@@ -10,8 +9,6 @@ A simple web app that validates user input for email addresses using Regular Exp
 - Instant feedback on valid or invalid input
 - Lightweight and responsive UI
 
-## 📺 Live Demo
-👉 [Live GitHub Pages Demo](https://rabbanali1122.github.io/Email_Validation_Through_Regx/)
 
 ## 🖼️ Screenshots
 **Homepage view with input field**
